@@ -1,4 +1,3 @@
 This is an exercise before the break.
 line1
-line2
-line3
+delete and add some lines
